@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
-<rect width="120" height="120" rx="24" fill="#16a085"/>
-<path d="M27 33 Q27 23 39 23 H81 Q94 23 94 36 V69 Q94 81 81 81 H59 L42 97 V81 H39 Q27 81 27 69 Z" fill="white"/>
-<path d="M43 52 Q43 42 53 42 H72 Q80 42 80 51 V60 Q80 68 71 68 H53 Q43 68 43 60 Z" fill="#16a085"/>
-<text x="60" y="108" font-family="Arial,sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="white">EITAA</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><rect width="100%" height="100%" fill="#159c89"/><text x="50%" y="50%" font-size="36" text-anchor="middle" fill="#333">E</text></svg>
